@@ -1,16 +1,6 @@
 # sky_predictor
+Sky Predictor is a mobile application built using Flutter, it's designed to provide you with real-time, accurate weather information for your current location. Whether you are planning your day, organizing an outdoor event, or simply curious about the weather.
 
-A new Flutter project.
+# Domonstration : 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![weatherAppDemo](https://github.com/user-attachments/assets/f5954518-1286-42d7-a3f2-77b13c9a7d1f)
