@@ -3,4 +3,4 @@ Sky Predictor is a mobile application built using Flutter & the open weather map
 
 # Domonstration : 
 
-![weatherAppDemo](https://github.com/user-attachments/assets/f5954518-1286-42d7-a3f2-77b13c9a7d1f)
+![Screenshot 2024-07-19 211715](https://github.com/user-attachments/assets/ed04609a-0bb0-45ae-a4dd-baa5897a04ef)
