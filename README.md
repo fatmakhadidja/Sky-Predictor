@@ -1,4 +1,5 @@
 # sky_predictor
+## Description of the application :
 Sky Predictor is a mobile application built using Flutter & the open weather map API, it's designed to provide you with real-time, accurate weather information for your current location. Whether you are planning your day, organizing an outdoor event, or simply curious about the weather.
 
 PS :
